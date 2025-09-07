@@ -140,11 +140,11 @@ $$
 Plug these values into the formula to calculate the modulation depth. 
 
 $$
-M_{\text{depth}}(\%) = \frac{28.5 - 22.67}{28.5} \times 100
+M_{\text{depth}}(\\%) = \frac{28.5 - 22.67}{28.5} \times 100
 $$
 
 $$
-M_{\text{depth}}(\%) = 20.45
+M_{\text{depth}}(\\%) = 20.45
 $$
 
 The target modulation depth is 20%.   If it's too high then reduce the value of `R2`.  If its too low then increase the
