@@ -134,7 +134,7 @@ Use the Y-Cursors to measure the peak and trough of the signal envelope of the 5
 Here we have `Y1=22.67V` and `Y2=28.5V`.
 
 $$
-M_{\text{depth}}(\%) = \frac{Y2_{\text{voltage}} - Y1_{\text{voltage}}}{Y2_{\text{voltage}}}  \times 100
+M_{\text{depth}}(\\%) = \frac{Y2_{\text{voltage}} - Y1_{\text{voltage}}}{Y2_{\text{voltage}}}  \times 100
 $$
 
 Plug these values into the formula to calculate the modulation depth. 
